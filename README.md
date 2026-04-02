@@ -49,6 +49,7 @@ Project developed at the **Tecnológico Nacional de México (Instituto Tecnológ
 * Espejel Rivera María Angélica
 * Ordaz Oliver Mario Oscar
 
+
 If this project is useful for your research or academic work, please consider citing it:
 
 > Zamora-Pérez, C.D., Pacheco-Serrano, J.N., Espejel-Rivera, M.A., & Ordaz-Oliver, M.O. (2026). *LTDESIGN: A MATLAB-based open-source toolbox for parametric design of long transmission lines*. GitHub repository. https://github.com/tu-usuario/LTDESIGN
