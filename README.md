@@ -4,6 +4,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-App_Designer-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Academic](https://img.shields.io/badge/Status-Academic_Research-success.svg)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19392947.svg)](https://doi.org/10.5281/zenodo.19392947)
 
 ## Description
 **LTDESIGN** is an open-source, MATLAB-based tool for the parametric design, analysis, and simulation of long transmission lines. Developed at the Instituto Tecnológico de Pachuca, this project unifies steady-state electrical analysis, transient dynamics (energization), and 3D spatial-mechanical modeling within an interactive and automated environment.
