@@ -53,4 +53,4 @@ Project developed at the **Tecnológico Nacional de México (Instituto Tecnológ
 
 If this project is useful for your research or academic work, please consider citing it:
 
-> Zamora-Pérez, C.D., Pacheco-Serrano, J.N., Espejel-Rivera, M.A., & Ordaz-Oliver, M.O. (2026). *LTDESIGN: A MATLAB-based open-source toolbox for parametric design of long transmission lines*. GitHub repository. https://github.com/Carlos-DZP/LTDESIGN.git
+> Zamora-Pérez, C.D., et al. (2026). LTDESIGN: A MATLAB-based open-source toolbox for parametric design of long transmission lines (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.19392947
