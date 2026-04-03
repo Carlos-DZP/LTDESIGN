@@ -27,14 +27,14 @@ The script executes a comprehensive workflow divided into 7 phases:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/tu-usuario/LTDESIGN.git](https://github.com/tu-usuario/LTDESIGN.git)
+    git clone [https://github.com/Carlos-DZP/LTDESIGN.git](https://github.com/Carlos-DZP/LTDESIGN.git)
     ```
 2.  **Set up MATLAB:**
     Open MATLAB, navigate to the downloaded directory, and make sure to add the folder to your *Path*.
 3.  **Run the environment:**
     Open the main file in the command window:
     ```matlab
-    run ltdesign_main.m
+    run('Code_LTDESIGN.m')
     ```
     *(Note: Replace `ltdesign_main.m` with the exact name of your script if it is different).*
 4.  **Workflow:**
@@ -53,4 +53,4 @@ Project developed at the **Tecnológico Nacional de México (Instituto Tecnológ
 
 If this project is useful for your research or academic work, please consider citing it:
 
-> Zamora-Pérez, C.D., Pacheco-Serrano, J.N., Espejel-Rivera, M.A., & Ordaz-Oliver, M.O. (2026). *LTDESIGN: A MATLAB-based open-source toolbox for parametric design of long transmission lines*. GitHub repository. https://github.com/tu-usuario/LTDESIGN
+> Zamora-Pérez, C.D., Pacheco-Serrano, J.N., Espejel-Rivera, M.A., & Ordaz-Oliver, M.O. (2026). *LTDESIGN: A MATLAB-based open-source toolbox for parametric design of long transmission lines*. GitHub repository. https://github.com/Carlos-DZP/LTDESIGN.git
